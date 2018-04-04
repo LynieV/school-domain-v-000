@@ -25,7 +25,7 @@ class School
   def sort
     roster.map do |student|
       binding.pry
-      student[1]sort
+      student[1].sort
     end
   end
  
