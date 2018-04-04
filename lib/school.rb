@@ -24,10 +24,8 @@ class School
   
   def sort
     roster.map do |student|
-      binding.pry
       student[1].sort
       new_roster = {}
-      new_roster[9] = 
     end
   end
  
