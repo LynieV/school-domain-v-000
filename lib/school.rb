@@ -23,7 +23,7 @@ class School
   end
   
   def sort
-    roster.map do |student|
+    roster.each do |student|
       student[1].sort
     end
   end
