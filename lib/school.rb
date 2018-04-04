@@ -16,8 +16,7 @@ class School
     end
   end
   
-  def grade(grade.to_i)
-    
+  def grade(grade)
     grade[:roster][:grade]
     grade(grade)
   end
