@@ -14,8 +14,7 @@ class School
     else
       
     end
-    roster[grade] = []
-    roster[grade] << student
+    
   end
   
 end
