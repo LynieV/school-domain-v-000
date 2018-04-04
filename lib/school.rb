@@ -23,8 +23,10 @@ class School
   end
   
   def sort
+    roster.each do |student|
+      student[1]sort
     binding.pry
-    roster.keys.sort
+    end
   end
  
 end
