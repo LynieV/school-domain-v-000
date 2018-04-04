@@ -24,7 +24,7 @@ class School
   
   def sort
     roster.each do |student|
-      
+      binding.pry
       student[1]sort
     end
   end
