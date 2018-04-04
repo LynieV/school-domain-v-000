@@ -1,4 +1,4 @@
-class School(name)
+class School :name
 end
 
 
