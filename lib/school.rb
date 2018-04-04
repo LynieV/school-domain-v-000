@@ -1,4 +1,4 @@
-class School
+class School(name)
 end
 
 
