@@ -19,7 +19,7 @@ class School
   def grade(grade)
     
   end
-  grade[:roster][:grade][:student]
+ 
 end
 
 
