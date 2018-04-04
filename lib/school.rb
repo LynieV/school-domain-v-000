@@ -25,7 +25,6 @@ class School
   def sort
     roster.map do |student|
       student[1].sort
-      new_roster = {}
     end
   end
  
